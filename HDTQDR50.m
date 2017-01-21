@@ -1,4 +1,4 @@
-% 100 MHz equalization filter for use with QDR
+% 50 MHz equalization filter for use with QDR
 % Assumes UDT -> QDR 
 % Read in 5 to 100 MHz smoothed response datafile
 % 3/20/2014: Original, compensates for reponse that already has sinc
